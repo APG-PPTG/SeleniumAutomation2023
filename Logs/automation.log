@@ -1,0 +1,44 @@
+[INFO ] 2023-03-31 09:59:47.196 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-03-31 09:59:48.911 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-03-31 09:59:58.893 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-03-31 09:59:59.543 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2023-03-31 09:59:59.560 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-03-31 10:00:00.039 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-03-31 10:00:05.478 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-03-31 10:00:05.478 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2023-03-31 10:00:05.480 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-03-31 10:00:06.054 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-03-31 10:00:11.499 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-03-31 10:00:11.500 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2023-03-31 12:57:19.026 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-03-31 12:57:20.218 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-03-31 12:57:27.301 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-03-31 12:57:27.979 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2023-03-31 12:57:27.994 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-03-31 12:57:28.498 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-03-31 12:57:33.948 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-03-31 12:57:33.948 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2023-03-31 12:57:33.957 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-03-31 12:57:34.567 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-03-31 12:57:40.000 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-03-31 12:57:40.016 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2023-03-31 12:57:40.025 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-03-31 12:57:40.508 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-03-31 12:57:45.956 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-03-31 12:57:45.956 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2023-04-28 20:42:25.708 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-04-28 20:42:28.374 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-04-28 20:42:36.699 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-04-28 20:42:38.309 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2023-04-28 20:42:38.325 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-04-28 20:42:39.449 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-04-28 20:42:45.209 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-04-28 20:42:45.209 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2023-04-28 20:42:45.225 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-04-28 20:42:46.382 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-04-28 20:42:52.154 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-04-28 20:42:52.154 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
+[INFO ] 2023-04-28 20:42:52.163 [TestNG-tests-1] TC_LoginDDT_002 - **************** Starting TC_LoginDDT_002 ************* 
+[INFO ] 2023-04-28 20:42:52.776 [TestNG-tests-1] TC_LoginDDT_002 - **************** Proving login details ************* 
+[INFO ] 2023-04-28 20:42:58.424 [TestNG-tests-1] TC_LoginDDT_002 - **************** loginTest is Passed ************* 
+[INFO ] 2023-04-28 20:42:58.424 [TestNG-tests-1] TC_LoginDDT_002 - **************** Finished TC_LoginTest_001 ************* 
